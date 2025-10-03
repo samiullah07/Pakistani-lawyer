@@ -5,7 +5,7 @@ Test conversational features of Pakistan Legal AI
 import requests
 import json
 
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://2826beea0f61.ngrok-free.app"
 
 def test_conversation():
     """Test various types of conversations"""
