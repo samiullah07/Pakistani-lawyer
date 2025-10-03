@@ -5,7 +5,7 @@ Test lawyer directory functionality
 import requests
 import json
 
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://2826beea0f61.ngrok-free.app"
 
 def test_lawyer_directory():
     """Test lawyer directory queries"""
