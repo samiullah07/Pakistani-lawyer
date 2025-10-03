@@ -5,7 +5,7 @@ Test language matching and response preservation
 import requests
 import json
 
-API_BASE_URL = "http://localhost:8000"
+API_BASE_URL = "https://2826beea0f61.ngrok-free.app"
 
 def test_language_matching():
     """Test language-specific responses and content preservation"""
