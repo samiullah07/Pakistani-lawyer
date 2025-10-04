@@ -213,7 +213,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # API Configuration
-API_BASE_URL = "https://f7a7cbf0d96c.ngrok-free.app"
+API_BASE_URL = "https://097cd97de1b9.ngrok-free.app"
 
 class ChatManager:
     def __init__(self):
