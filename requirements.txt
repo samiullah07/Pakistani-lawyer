@@ -1,0 +1,17 @@
+# Pakistan Legal AI - Auto-resolve Dependencies
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+pypdf
+faiss-cpu
+sentence-transformers
+transformers
+torch
+numpy
+langchain
+langchain-community
+langchain-groq
+langgraph
+langchain-huggingface
