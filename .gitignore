@@ -28,15 +28,12 @@ ENV/
 env/
 
 # IDEs
-.vscode/
 .idea/
 *.swp
 *.swo
 *~
 
 # Environment variables
-.env
-.env.local
 
 # Logs
 *.log
@@ -48,3 +45,5 @@ Thumbs.db
 # Project specific
 *.pyc
 .pytest_cache/
+config.bat
+node_modules
